@@ -15,8 +15,4 @@ pip install prophet
 
 Then click releases and downnload the exe file
 
-pip install pystan
-
-
-pip install prophet
 
